@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 76c5ef2bd7284104c93b21e6e836bfdc
+timeCreated: 1494709782
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Northernlion_0
+    21300002: Northernlion_1
+    21300004: Northernlion_2
+    21300006: Northernlion_3
+    21300008: Northernlion_4
+    21300010: Northernlion_5
+    21300012: Northernlion_6
+    21300014: Northernlion_7
+    21300016: Northernlion_8
+    21300018: Northernlion_9
+    21300020: Northernlion_10
+    21300022: Northernlion_11
+    21300024: Northernlion_12
+    21300026: Northernlion_13
+    21300028: Northernlion_14
+    21300030: Northernlion_15
+    21300032: Northernlion_16
+    21300034: Northernlion_17
+    21300036: Northernlion_18
+    21300038: Northernlion_19
+    21300040: Northernlion_20
+    21300042: Northernlion_21
+    21300044: Northernlion_22
+    21300046: Northernlion_23
+    21300048: Northernlion_24
+    21300050: Northernlion_25
+    21300052: Northernlion_26
+    21300054: Northernlion_27
+    21300056: Northernlion_28
+    21300058: Northernlion_29
+    21300060: Northernlion_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Northernlion_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2873
+        width: 343
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2809
+        width: 426
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2909
+        width: 489
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_3
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2897
+        width: 423
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_4
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2886
+        width: 387
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2822
+        width: 404
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_6
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 2905
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_7
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 2890
+        width: 426
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2230
+        width: 379
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2245
+        width: 372
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_10
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2202
+        width: 336
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_11
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2206
+        width: 444
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2198
+        width: 490
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_13
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 2225
+        width: 538
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 374
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1460
+        width: 376
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_16
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1460
+        width: 376
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_17
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1465
+        width: 378
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_18
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1460
+        width: 376
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 730
+        width: 377
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 721
+        width: 375
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 721
+        width: 377
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 730
+        width: 378
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_23
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 721
+        width: 378
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 384
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 381
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_26
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 382
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_27
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 381
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_28
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 380
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_29
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 380
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Northernlion_30
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 0
+        width: 383
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
