@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6c291cb3a488c3c47bde77e062762d7b
+timeCreated: 1494831008
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cadmium Egg
+  fontNames:
+  - Cadmium Egg
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

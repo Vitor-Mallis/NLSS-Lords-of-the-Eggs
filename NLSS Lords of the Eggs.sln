@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLSS Lords of the Eggs", "Assembly-CSharp.csproj", "{A5DC80AB-13FE-0E5B-4B09-074CF48BBB08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLSS Lords of the Eggs", "Assembly-CSharp-Editor.csproj", "{8346E527-C1E5-70E4-2D2F-0A53972E978B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A5DC80AB-13FE-0E5B-4B09-074CF48BBB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5DC80AB-13FE-0E5B-4B09-074CF48BBB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5DC80AB-13FE-0E5B-4B09-074CF48BBB08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8346E527-C1E5-70E4-2D2F-0A53972E978B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8346E527-C1E5-70E4-2D2F-0A53972E978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8346E527-C1E5-70E4-2D2F-0A53972E978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8346E527-C1E5-70E4-2D2F-0A53972E978B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

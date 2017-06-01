@@ -43,4 +43,10 @@ public class Walk : MonoBehaviour {
 		transform.position = tempPosition;
 		transform.localScale = tempScale;
 	}
+
+	void OnTriggerEnter2D(Collider2D collision) {
+		if (collision.tag == "Enemy") {
+			ScreenFader.instance.LoadScene ("Battle");
+		}
+	}
 }

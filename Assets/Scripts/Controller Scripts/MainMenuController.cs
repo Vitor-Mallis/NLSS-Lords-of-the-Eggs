@@ -2,26 +2,33 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour {
 
 	[SerializeField]
-	GameObject menuPanel;
+	GameObject menuPanel, pressAnyButton;
 	[SerializeField]
 	Animator menuAnimator;
 
+	void Update() {
+		if (Input.anyKeyDown) {
+			if(!menuPanel.activeInHierarchy)
+				ShowMenu ();
+		}
+	}
+
 	public void ShowMenu() {
 		menuPanel.SetActive (true);
+		pressAnyButton.SetActive (false);
 		menuAnimator.Play ("SlideIn");
 	}
 
 	public void OnPressPlay() {
-		SceneManager.LoadScene ("Gameplay");
+		ScreenFader.instance.LoadScene ("Gameplay");
 	}
 
 	public void OnPressOptions() {
-		SceneManager.LoadScene ("Options");
+		ScreenFader.instance.LoadScene ("Options");
 	}
 
 	public void OnPressQuit() {
